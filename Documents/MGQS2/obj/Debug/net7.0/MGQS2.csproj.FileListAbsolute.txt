@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\MGQS2\obj\Debug\net7.0\MGQS2.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\MGQS2\obj\Debug\net7.0\MGQS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\MGQS2\obj\Debug\net7.0\MGQS2.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\MGQS2\obj\Debug\net7.0\MGQS2.AssemblyInfo.cs
+C:\Users\hp\Documents\MGQS2\obj\Debug\net7.0\MGQS2.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\MGQS2\bin\Debug\net7.0\MGQS2.exe
+C:\Users\hp\Documents\MGQS2\bin\Debug\net7.0\MGQS2.deps.json
+C:\Users\hp\Documents\MGQS2\bin\Debug\net7.0\MGQS2.runtimeconfig.json
+C:\Users\hp\Documents\MGQS2\bin\Debug\net7.0\MGQS2.dll
+C:\Users\hp\Documents\MGQS2\bin\Debug\net7.0\MGQS2.pdb
+C:\Users\hp\Documents\MGQS2\obj\Debug\net7.0\MGQS2.dll
+C:\Users\hp\Documents\MGQS2\obj\Debug\net7.0\refint\MGQS2.dll
+C:\Users\hp\Documents\MGQS2\obj\Debug\net7.0\MGQS2.pdb
+C:\Users\hp\Documents\MGQS2\obj\Debug\net7.0\MGQS2.genruntimeconfig.cache
+C:\Users\hp\Documents\MGQS2\obj\Debug\net7.0\ref\MGQS2.dll
